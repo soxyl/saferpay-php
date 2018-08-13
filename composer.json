@@ -1,0 +1,13 @@
+{
+    "name": "soxyl/saferpay-php",
+    "description": "PHP Library simplifying the access to the Saferpay JSON API",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel Wicky",
+            "email": "s@wicky.io"
+        }
+    ],
+    "require": {}
+}
