@@ -11,7 +11,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Samuel Wicky <s@wicky.io>",
+            "name": "Samuel Wicky",
+            "email": "s@wicky.io",
             "homepage": "http://wicky.io"
         }
     ],
