@@ -7,5 +7,6 @@ generate.sh
 test/**
 .php_cs
 .travis.yml
+composer.json
 git_push.sh
 phpunit.xml.dist
