@@ -13,6 +13,6 @@
   "gitRepoId" : "saferpay-php",
   "artifactVersion" : "1.10.0",
   "composerVendorName" : "soxyl",
-  "composerProjectName" : "saferpay-php",
+  "composerProjectName" : "saferpay",
   "hideGenerationTimestamp" : true
 }
