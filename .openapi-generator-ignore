@@ -1,3 +1,11 @@
+# Not generate Files
 config.yaml
 LICENSE
-README.md
+generate.sh
+
+# Unneeded Files
+test/**
+.php_cs
+.travis.yml
+git_push.sh
+phpunit.xml.dist

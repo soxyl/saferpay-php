@@ -7,7 +7,7 @@
   "apiPackage" : "Api",
   "variableNamingConvention" : "snake_case",
   "invokerPackage" : "Soxyl\\Saferpay",
-  "packageName" : "packageName",
+  "packageName" : "Saferpay JSON API PHP Client",
   "srcBasePath" : "src",
   "gitUserId" : "soxyl",
   "gitRepoId" : "saferpay-php",
