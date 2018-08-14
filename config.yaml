@@ -1,0 +1,18 @@
+{
+  "sortParamsByRequiredFlag" : true,
+  "ensureUniqueParams" : true,
+  "allowUnicodeIdentifiers" : false,
+  "prependFormOrBodyParameters" : false,
+  "modelPackage" : "Model",
+  "apiPackage" : "Api",
+  "variableNamingConvention" : "snake_case",
+  "invokerPackage" : "Soxyl\\Saferpay",
+  "packageName" : "packageName",
+  "srcBasePath" : "src",
+  "gitUserId" : "soxyl",
+  "gitRepoId" : "saferpay-php",
+  "artifactVersion" : "1.10.0",
+  "composerVendorName" : "soxyl",
+  "composerProjectName" : "saferpay-php",
+  "hideGenerationTimestamp" : true
+}
